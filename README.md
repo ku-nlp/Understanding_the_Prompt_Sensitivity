@@ -4,8 +4,8 @@ This repository contains code and notebooks for analyzing prompt sensitivity in 
 ## TL;DR:
 
 Prompt sensitivity is because:
- - $\|\Delta \mathbf{h}\|$ **gradually increases** from close to 0 to approximately 70 across the model layers.
- - The increase of $\|\Delta \mathbf{h}\|$ leads to an increasing trend of the upper bound across layers, making it impossible to converge to sufficiently low values and **hard to constrain** $|\Delta \log \pi (y_t | \mathbf{h})|$ to 0 via the upper bound.
+ - $\lVert \Delta \mathbf{h} \rVert$ **gradually increases** from close to 0 to approximately 70 across the model layers.
+ - The increase of $\lVert \Delta \mathbf{h} \rVert$ leads to an increasing trend of the upper bound across layers, making it impossible to converge to sufficiently low values and **hard to constrain** $\lvert \Delta \log \pi (y_t \mid \mathbf{h}) \rvert$ to 0 via the upper bound.
 
 <table>
   <tr>
