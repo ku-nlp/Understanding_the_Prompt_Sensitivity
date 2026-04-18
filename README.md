@@ -1,5 +1,6 @@
 # Understanding the Prompt Sensitivity
-This repository contains code and notebooks for analyzing prompt sensitivity in LLMs.
+
+This repository contains code and notebooks for analyzing prompt sensitivity in LLMs, accompanying our ACL 2026 paper *Understanding the Prompt Sensitivity*.
 
 ## TL;DR:
 
