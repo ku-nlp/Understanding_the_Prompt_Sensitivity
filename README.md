@@ -107,4 +107,11 @@ Notebooks under `plot/` read from `results/` and generate the figures used in
 the analysis. 
 
 ## Citation:
-todo
+```
+@article{liu2026understanding,
+  title={Understanding the Prompt Sensitivity},
+  author={Liu, Yang and Chu, Chenhui},
+  journal={arXiv preprint arXiv:2604.18389},
+  year={2026}
+}
+```
